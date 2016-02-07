@@ -1,0 +1,65 @@
+body{
+  background-color: #eeeeee;
+}
+
+.paper{
+  width: 420px;
+  margin: 0 auto;
+  background-color: white;
+  padding: 40px;
+  -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+  box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+}
+
+.name{
+  padding-bottom: 5px;
+ }
+
+h1{
+  text-align: center;
+  font-size: 22px;
+  margin: 0;
+  font-family: Serif, Arial, Times;
+}
+
+.photo{
+  text-align: center;
+  font-size: 0px;
+}
+
+p{
+  font-size: 18px;
+  margin-left: 15px;
+  font-family: Serif, Arial, Times;
+}
+
+.resume{
+  border-top: 1px solid grey;
+}
+
+ul{
+  margin-top: 5px;
+}
+
+ul li{
+  font-size: 18px;
+  margin-top: 5px;
+  font-family: Serif, Arial, Times;
+}
+
+.contacts{
+  border-top: 1px solid grey;
+}
+
+.myphone{
+  padding-bottom: 15px;
+ }
+
+  a{
+  color: blue;
+ }
+
+ .feedback{
+  border-top: 1px solid grey;
+}
